@@ -1,0 +1,6 @@
+C:\xampp\htdocs\GIT3\PP\1_first_file\1_first_file\bin\Debug\1_first_file.exe.config
+C:\xampp\htdocs\GIT3\PP\1_first_file\1_first_file\bin\Debug\1_first_file.exe
+C:\xampp\htdocs\GIT3\PP\1_first_file\1_first_file\bin\Debug\1_first_file.pdb
+C:\xampp\htdocs\GIT3\PP\1_first_file\1_first_file\obj\Debug\1_first_file.csprojAssemblyReference.cache
+C:\xampp\htdocs\GIT3\PP\1_first_file\1_first_file\obj\Debug\1_first_file.exe
+C:\xampp\htdocs\GIT3\PP\1_first_file\1_first_file\obj\Debug\1_first_file.pdb
