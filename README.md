@@ -1,10 +1,10 @@
 Enterprise APE                  
-=========================      <h1>
+=========================     
 
 Powerful Software
--------------------------      <h2>
+-------------------------      
 
-### Welcome to the repository   <h3>
+### Welcome to the repository   
 
 Feel free to access [my portfolio] (http://www.wp.pl).
 
